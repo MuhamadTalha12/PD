@@ -1,0 +1,5 @@
+Talha,talha@123,Admin
+Uzi,100,client
+Moon,123456,Admin
+Maryam,12345678,Admin
+Mam,111,Admin
